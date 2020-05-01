@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-splitting"]=this["webpackJsonpcode-splitting"]||[]).push([[5],{234:function(t,e,s){"use strict";s.r(e);var i=s(0),n=s.n(i),a=s(237);e.default=function(){return n.a.createElement(a.a,{status:"404",title:"About Us",subTitle:"There is nothing much I have to say about myself"})}}}]);
+//# sourceMappingURL=5.3dddafaf.chunk.js.map

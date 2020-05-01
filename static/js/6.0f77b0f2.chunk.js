@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-splitting"]=this["webpackJsonpcode-splitting"]||[]).push([[6],{233:function(e,t,s){"use strict";s.r(t);var i=s(0),a=s.n(i),n=s(236);t.default=function(){return a.a.createElement(n.a,{className:"site-page-header",backIcon:!1,title:"Code Split Demo",subTitle:"Improving Page speeds"})}}}]);
+//# sourceMappingURL=6.0f77b0f2.chunk.js.map
